@@ -44,5 +44,5 @@ The Github Actions workflows authenticate to Snowflake via secrets uploaded to G
 
 
 
-
+Lourencekruger.sf@gmail.com
 
